@@ -1,0 +1,80 @@
+newmtl MAT_PaintWarmWhite
+Ka 1 1 1
+Kd 0.930 0.910 0.860
+Ks 0.15 0.15 0.15
+Ns 20
+d 1
+illum 2
+map_Kd Textures/paint_warm_white_albedo.png
+map_Bump -bm 1 Textures/paint_warm_white_normal.png
+
+newmtl MAT_PanelLightGrey
+Ka 1 1 1
+Kd 0.780 0.790 0.810
+Ks 0.35 0.35 0.35
+Ns 45
+d 1
+illum 2
+map_Kd Textures/panel_light_grey_albedo.png
+map_Bump -bm 1 Textures/panel_light_grey_normal.png
+
+newmtl MAT_FabricBlue
+Ka 1 1 1
+Kd 0.310 0.450 0.610
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+map_Kd Textures/fabric_blue_albedo.png
+map_Bump -bm 1 Textures/fabric_blue_normal.png
+
+newmtl MAT_BrushedAluminium
+Ka 1 1 1
+Kd 0.800 0.810 0.830
+Ks 0.80 0.80 0.80
+Ns 60
+d 1
+illum 2
+map_Kd Textures/brushed_aluminium_albedo.png
+map_Bump -bm 1 Textures/brushed_aluminium_normal.png
+
+newmtl MAT_GraphiteSatin
+Ka 1 1 1
+Kd 0.280 0.300 0.330
+Ks 0.40 0.40 0.40
+Ns 50
+d 1
+illum 2
+map_Kd Textures/graphite_satin_albedo.png
+map_Bump -bm 1 Textures/graphite_satin_normal.png
+
+newmtl MAT_Art_Circuit
+Ka 1 1 1
+Kd 1.000 1.000 1.000
+Ks 0.60 0.60 0.60
+Ns 80
+d 1
+illum 2
+map_Kd Textures/art_circuit_albedo.png
+map_Bump -bm 1 Textures/art_circuit_normal.png
+
+newmtl MAT_Art_Network
+Ka 1 1 1
+Kd 1.000 1.000 1.000
+Ks 0.60 0.60 0.60
+Ns 80
+d 1
+illum 2
+map_Kd Textures/art_network_albedo.png
+map_Bump -bm 1 Textures/art_network_normal.png
+
+newmtl MAT_Art_Code
+Ka 1 1 1
+Kd 1.000 1.000 1.000
+Ks 0.60 0.60 0.60
+Ns 80
+d 1
+illum 2
+map_Kd Textures/art_code_albedo.png
+map_Bump -bm 1 Textures/art_code_normal.png
+
